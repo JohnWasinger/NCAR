@@ -1,4 +1,6 @@
-## Write a short parallel program, in your language choice, using either MPI, OpenMP, OpenACC, OpenMP offload, or CUDA.
+# For example...
+
+### Write a short parallel program, in your language choice, using either MPI, OpenMP, OpenACC, OpenMP offload, or CUDA.
 
 Here's a simple example of a parallel program using OpenMP in C++17. This program performs a parallelized vector addition operation.
 
